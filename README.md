@@ -1,5 +1,5 @@
 # 9.py
-a simple encode and decode script for a flat version of the 9dot font i invented
+A simple encode and decode script for a flat version of the 9dot font originaly concived by Zikushimo.
 
 Use:
 python 9.py
