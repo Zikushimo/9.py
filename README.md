@@ -10,7 +10,7 @@ This is an "A" in 9dot written in binary.
     A = 101
         101
 
-A 9dot symbol can be written as one line as such.
+A 9dot symbol can be written as a one-line string as such.
 
     010
     101 = 010101101
