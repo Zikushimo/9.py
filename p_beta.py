@@ -20,11 +20,9 @@ Only works with the word test
 			
 				while opcion0 == "1":
 					print ('Type what you want yo decode')
-					decode = raw_input('Decode >')
+                                        
 					print (' ')
-					if "111010010111110111011010110111010010" in decode:
-						decode = "test"
-					print decode
+					
 					print (' ')
 				while opcion0 == "2":
 					print ('Type what you want to encode')
