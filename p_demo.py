@@ -24,7 +24,7 @@ Only works with the word test
 					print (' ')
 					if "111010010111110111011010110111010010" in decode:
 						decode = "test"
-					print decode
+					print (decode)
 					print (' ')
 				while opcion0 == "2":
 					print ('Type what you want to encode')
@@ -32,7 +32,7 @@ Only works with the word test
 					print (' ')
 					if "test" in encode:
 						encode = "111010010111110111011010110111010010"
-					print encode
+					print (encode)
 					print (' ')
 		inicio1()
 	except KeyboardInterrupt:
